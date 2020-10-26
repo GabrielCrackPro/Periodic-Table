@@ -1,0 +1,181 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 22px;
+}
+nav {
+  background: #24627c;
+  padding: 5px;
+}
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 25px;
+}
+.main {
+  height: 25rem;
+  width: 50rem;
+  border: 2px solid #000;
+  margin-left: 5rem;
+  margin-top: 2rem;
+}
+.hidrogen {
+  border: 2px solid #000;
+  position: absolute;
+  height: 3rem;
+  width: 3em;
+}
+.litium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 3rem;
+  height: 3rem;
+  width: 3rem;
+}
+.sodium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 6rem;
+  height: 3rem;
+  width: 3rem;
+}
+.potassium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  height: 3rem;
+  width: 3rem;
+}
+.rubidium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  height: 3rem;
+  width: 3rem;
+}
+.cesium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  height: 3rem;
+  width: 3rem;
+}
+.francium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  height: 3rem;
+  width: 3rem;
+}
+.berilium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 3rem;
+  margin-left: 3rem;
+  height: 3rem;
+  width: 3rem;
+}
+.magnesium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 6rem;
+  margin-left: 3rem;
+  height: 3rem;
+  width: 3rem;
+}
+.calcium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 3rem;
+  height: 3rem;
+  width: 3rem;
+}
+.strontium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 3rem;
+  height: 3rem;
+  width: 3rem;
+}
+.barium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 3rem;
+  width: 3rem;
+  height: 3rem;
+}
+.radium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 3rem;
+  height: 3rem;
+  width: 3rem;
+}
+.scandium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 6rem;
+  height: 3rem;
+  width: 3rem;
+}
+.yttrium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 6rem;
+  height: 3rem;
+  width: 3rem;
+}
+.titanium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 9rem;
+  height: 3rem;
+  width: 3rem;
+}
+.hidrogen h5,
+.litium h5,
+.sodium h5,
+.potassium h5,
+.rubidium h5,
+.cesium h5,
+.francium h5,
+.berilium h5,
+.magnesium h5,
+.calcium h5,
+.strontium h5,
+.barium h5,
+.radium h5,
+.scandium h5,
+.yttrium h5,
+.titanium h5 {
+  text-align: center;
+}
+.hidrogen h6,
+.litium h6,
+.sodium h6,
+.potassium h6,
+.rubidium h6,
+.cesium h6,
+.francium h6,
+.berilium h6,
+.magnesium h6,
+.calcium h6,
+.strontium h6,
+.barium h6,
+.radium h6,
+.scandium h6,
+.yttrium h6,
+.titanium h6 {
+  position: relative;
+  font-size: 0.5rem;
+  text-align: center;
+}
