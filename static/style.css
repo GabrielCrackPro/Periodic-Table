@@ -141,6 +141,246 @@ nav a {
   height: 3rem;
   width: 3rem;
 }
+.zirconium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 9rem;
+  height: 3rem;
+  width: 3rem;
+}
+.hafnium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 9rem;
+  height: 3rem;
+  width: 3rem;
+}
+.ruterfodium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 9rem;
+  height: 3rem;
+  width: 3rem;
+}
+.vanadium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 12rem;
+  height: 3rem;
+  width: 3rem;
+}
+.niobium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 12rem;
+  height: 3rem;
+  width: 3rem;
+}
+.tantalum {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 12rem;
+  height: 3rem;
+  width: 3rem;
+}
+.dubnius {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 12rem;
+  height: 3rem;
+  width: 3rem;
+}
+.chrome {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 15rem;
+  height: 3rem;
+  width: 3rem;
+}
+.molybdenum {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 15rem;
+  height: 3rem;
+  width: 3rem;
+}
+.tungsten {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 15rem;
+  height: 3rem;
+  width: 3rem;
+}
+.seaborgium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 15rem;
+  height: 3rem;
+  width: 3rem;
+}
+.manganese {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 18rem;
+  height: 3rem;
+  width: 3rem;
+}
+.technetium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 18rem;
+  height: 3rem;
+  width: 3rem;
+}
+.rhenium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 18rem;
+  height: 3rem;
+  width: 3rem;
+}
+.bohrium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 18rem;
+  height: 3rem;
+  width: 3rem;
+}
+.iron {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 21rem;
+  height: 3rem;
+  width: 3rem;
+}
+.ruthenium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 21rem;
+  height: 3rem;
+  width: 3rem;
+}
+.osmium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 21rem;
+  height: 3rem;
+  width: 3rem;
+}
+.hassium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 21rem;
+  height: 3rem;
+  width: 3rem;
+}
+.cobalt {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 24rem;
+  height: 3rem;
+  width: 3rem;
+}
+.rhodium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 24rem;
+  height: 3rem;
+  width: 3rem;
+}
+.iridium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 24rem;
+  height: 3rem;
+  width: 3rem;
+}
+.meitnerium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 24rem;
+  height: 3rem;
+  width: 3rem;
+}
+.nickel {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 27rem;
+  height: 3rem;
+  width: 3rem;
+}
+.palladium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 27rem;
+  height: 3rem;
+  width: 3rem;
+}
+.platinum {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 27rem;
+  height: 3rem;
+  width: 3rem;
+}
+.darmstadtium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 27rem;
+  height: 3rem;
+  width: 3rem;
+}
+.copper {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 30rem;
+  height: 3rem;
+  width: 3rem;
+}
+.silver {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 30rem;
+  height: 3rem;
+  width: 3rem;
+}
+.gold {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 30rem;
+  height: 3rem;
+  width: 3rem;
+}
 .hidrogen h5,
 .litium h5,
 .sodium h5,
@@ -156,7 +396,37 @@ nav a {
 .radium h5,
 .scandium h5,
 .yttrium h5,
-.titanium h5 {
+.titanium h5,
+.zirconium h5,
+.hafnium h5,
+.ruterfodium h5,
+.vanadium h5,
+.niobium h5,
+.tantalum h5,
+.dubnius h5,
+.chrome h5,
+.molybdenum h5,
+.tungsten h5,
+.seaborgium h5,
+.manganese h5,
+.technetium h5,
+.rhenium h5,
+.bohrium h5,
+.iron h5,
+.ruthenium h5,
+.osmium h5,
+.hassium h5,
+.cobalt h5,
+.rhodium h5,
+.iridium h5,
+.meitnerium h5,
+.nickel h5,
+.palladium h5,
+.platinum h5,
+.darmstadtium h5,
+.copper h5,
+.silver h5,
+.gold h5 {
   text-align: center;
 }
 .hidrogen h6,
@@ -174,8 +444,38 @@ nav a {
 .radium h6,
 .scandium h6,
 .yttrium h6,
-.titanium h6 {
+.titanium h6,
+.zirconium h6,
+.hafnium h6,
+.ruterfodium h6,
+.vanadium h6,
+.niobium h6,
+.tantalum h6,
+.dubnius h6,
+.chrome h6,
+.molybdenum h6,
+.tungsten h6,
+.seaborgium h6,
+.manganese h6,
+.technetium h6,
+.rhenium h6,
+.bohrium h6,
+.iron h6,
+.ruthenium h6,
+.osmium h6,
+.hassium h6,
+.cobalt h6,
+.rhodium h6,
+.iridium h6,
+.meitnerium h6,
+.nickel h6,
+.palladium h6,
+.platinum h6,
+.darmstadtium h6,
+.copper h6,
+.silver h6,
+.gold h6 {
   position: relative;
-  font-size: 0.5rem;
+  font-size: 0.4rem;
   text-align: center;
 }
