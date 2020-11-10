@@ -15,12 +15,13 @@ nav a {
   font-size: 25px;
 }
 .main {
-  height: 25rem;
-  width: 50rem;
+  height: 21rem;
+  width: 54.2rem;
   border: 2px solid #000;
   margin-left: 5rem;
   margin-top: 2rem;
 }
+/*Elements*/
 .hidrogen {
   border: 2px solid #000;
   position: absolute;
@@ -381,6 +382,341 @@ nav a {
   height: 3rem;
   width: 3rem;
 }
+.roentgenium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 30rem;
+  height: 3rem;
+  width: 3rem;
+}
+.cinc {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 33rem;
+  height: 3rem;
+  width: 3rem;
+}
+.cadmium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 33rem;
+  height: 3rem;
+  width: 3rem;
+}
+.mercury {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 33rem;
+  height: 3rem;
+  width: 3rem;
+}
+.copernicus {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 33rem;
+  height: 3rem;
+  width: 3rem;
+}
+.boron {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 3rem;
+  margin-left: 36rem;
+  height: 3rem;
+  width: 3rem;
+}
+.aluminum {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 6rem;
+  margin-left: 36rem;
+  height: 3rem;
+  width: 3rem;
+}
+.gallium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 36rem;
+  height: 3rem;
+  width: 3rem;
+}
+.indian {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 36rem;
+  height: 3rem;
+  width: 3rem;
+}
+.thallium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 36rem;
+  height: 3rem;
+  width: 3rem;
+}
+.nihonium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 36rem;
+  height: 3rem;
+  width: 3rem;
+}
+.carbon {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 3rem;
+  margin-left: 39rem;
+  height: 3rem;
+  width: 3rem;
+}
+.silicon {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 6rem;
+  margin-left: 39rem;
+  height: 3rem;
+  width: 3rem;
+}
+.germanium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 39rem;
+  height: 3rem;
+  width: 3rem;
+}
+.tin {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 39rem;
+  height: 3rem;
+  width: 3rem;
+}
+.lead {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 39rem;
+  height: 3rem;
+  width: 3rem;
+}
+.flerovium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 39rem;
+  height: 3rem;
+  width: 3rem;
+}
+.nitrogen {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 3rem;
+  margin-left: 42rem;
+  height: 3rem;
+  width: 3rem;
+}
+.phosphorus {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 6rem;
+  margin-left: 42rem;
+  height: 3rem;
+  width: 3rem;
+}
+.arsenic {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 42rem;
+  width: 3rem;
+  height: 3rem;
+}
+.antimony {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 42rem;
+  height: 3rem;
+  width: 3rem;
+}
+.bismuth {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 42rem;
+  height: 3rem;
+  width: 3rem;
+}
+.moscovium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 42rem;
+  height: 3rem;
+  width: 3rem;
+}
+.oxigen {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 3rem;
+  margin-left: 45rem;
+  height: 3rem;
+  width: 3rem;
+}
+.sulfur {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 6rem;
+  margin-left: 45rem;
+  height: 3rem;
+  width: 3rem;
+}
+.selenium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 45rem;
+  height: 3rem;
+  width: 3rem;
+}
+.tellurium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 45rem;
+  height: 3rem;
+  width: 3rem;
+}
+.polonium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 45rem;
+  height: 3rem;
+  width: 3rem;
+}
+.livermorium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 45rem;
+  height: 3rem;
+  width: 3rem;
+}
+.fluorine {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 3rem;
+  margin-left: 48rem;
+  height: 3rem;
+  width: 3rem;
+}
+.chlorine {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 6rem;
+  margin-left: 48rem;
+  height: 3rem;
+  width: 3rem;
+}
+.bromine {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 48rem;
+  height: 3rem;
+  width: 3rem;
+}
+.iodine {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 48rem;
+  height: 3rem;
+  width: 3rem;
+}
+.astat {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 48rem;
+  height: 3rem;
+  width: 3rem;
+}
+.tenese {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 48rem;
+  height: 3rem;
+  width: 3rem;
+}
+.helium {
+  position: absolute;
+  border: 2px solid #000;
+  margin-left: 51rem;
+  height: 3rem;
+  width: 3rem;
+}
+.neon {
+  position: absolute;
+  border: 2px solid #000;
+  margin-left: 51rem;
+  margin-top: 3rem;
+  height: 3rem;
+  width: 3rem;
+}
+.argon {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 6rem;
+  margin-left: 51rem;
+  height: 3rem;
+  width: 3rem;
+}
+.kripton {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 9rem;
+  margin-left: 51rem;
+  height: 3rem;
+  width: 3rem;
+}
+.xenon {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 12rem;
+  margin-left: 51rem;
+  height: 3rem;
+  width: 3rem;
+}
+.radon {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 15rem;
+  margin-left: 51rem;
+  height: 3rem;
+  width: 3rem;
+}
+.oganeson {
+  position: absolute;
+  border: 2px solid #000;
+  margin-top: 18rem;
+  margin-left: 51rem;
+  height: 3rem;
+  width: 3rem;
+}
 .hidrogen h5,
 .litium h5,
 .sodium h5,
@@ -426,7 +762,49 @@ nav a {
 .darmstadtium h5,
 .copper h5,
 .silver h5,
-.gold h5 {
+.gold h5,
+.roentgenium h5,
+.cinc h5,
+.cadmium h5,
+.mercury h5,
+.copernicus h5,
+.boron h5,
+.aluminum h5,
+.gallium h5,
+.indian h5,
+.thallium h5,
+.nihonium h5,
+.carbon h5,
+.silicon h5,
+.germanium h5,
+.tin h5,
+.lead h5,
+.flerovium h5,
+.nitrogen h5,
+.phosphorus h5,
+.arsenic h5,
+.antimony h5,
+.bismuth h5,
+.moscovium h5,
+.oxigen h5,
+.sulfur h5,
+.selenium h5,
+.tellurium h5,
+.polonium h5,
+.livermorium h5,
+.fluorine h5,
+.chlorine h5,
+.bromine h5,
+.iodine h5,
+.astat h5,
+.tenese h5,
+.helium h5,
+.neon h5,
+.argon h5,
+.kripton h5,
+.xenon h5,
+.radon h5,
+.oganeson h5 {
   text-align: center;
 }
 .hidrogen h6,
@@ -474,8 +852,105 @@ nav a {
 .darmstadtium h6,
 .copper h6,
 .silver h6,
-.gold h6 {
+.gold h6,
+.roentgenium h6,
+.cinc h6,
+.cadmium h6,
+.mercury h6,
+.copernicus h6,
+.boron h6,
+.aluminum h6,
+.gallium h6,
+.indian h6,
+.thallium h6,
+.nihonium h6,
+.carbon h6,
+.silicon h6,
+.germanium h6,
+.tin h6,
+.lead h6,
+.flerovium h6,
+.nitrogen h6,
+.phosphorus h6,
+.arsenic h6,
+.antimony h6,
+.bismuth h6,
+.moscovium h6,
+.oxigen h6,
+.sulfur h6,
+.selenium h6,
+.tellurium h6,
+.polonium h6,
+.livermorium h6,
+.livermorium h6,
+.fluorine h6,
+.chlorine h6,
+.bromine h6,
+.iodine h6,
+.astat h6,
+.tenese h6,
+.helium h6,
+.neon h6,
+.argon h6,
+.kripton h6,
+.xenon h6,
+.radon h6,
+.oganeson h6 {
   position: relative;
   font-size: 0.4rem;
   text-align: center;
+}
+/*Effects*/
+.element {
+  cursor: pointer;
+}
+.element:hover {
+  font-weight: bold;
+}
+.metal {
+  background: #dba901;
+}
+.no-metal {
+  background: #013adf;
+}
+.semi-metal {
+  background: #04b45f;
+}
+.noble {
+  background: #ff0040;
+}
+.artificial {
+  background: #2e2e2e;
+  color: #fff;
+}
+
+.metal:hover {
+  color: #dba901;
+  background: #000;
+  border: 2px solid #dba901;
+  transition: all 0.3s ease;
+}
+.no-metal:hover {
+  color: #013adf;
+  background: #000;
+  border: 2px solid #013adf;
+  transition: all 0.3s ease;
+}
+.semi-metal:hover {
+  color: #04b45f;
+  background: #000;
+  border: 2px solid #04b45f;
+  transition: all 0.3s ease;
+}
+.noble:hover {
+  color: #ff0040;
+  background: #000;
+  border: 2px solid #ff0040;
+  transition: all 0.3s ease;
+}
+.artificial:hover {
+  color: #2e2e2e;
+  background: #fff;
+  border: 2px solid #2e2e2e;
+  transition: all 0.3s ease;
 }
