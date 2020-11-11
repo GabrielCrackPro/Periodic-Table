@@ -954,3 +954,105 @@ nav a {
   border: 2px solid #2e2e2e;
   transition: all 0.3s ease;
 }
+.legend {
+  position: absolute;
+  margin-left: 30%;
+  margin-top: 10px;
+  padding: 10px;
+  border: 2px solid #000;
+  border-radius: 20px;
+}
+.legend button {
+  border: 2px solid #000;
+  height: 2rem;
+  width: 2rem;
+  font-size: 22px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+#metal-button {
+  background: #dba901;
+}
+#semi-metal-button {
+  background: #04b45f;
+}
+#no-metal-button {
+  background: #013adf;
+}
+#noble-gas-button {
+  background: #ff0040;
+}
+#artificial-button {
+  background: #2e2e2e;
+  color: #fff;
+  margin-top: 5px;
+  margin-left: 30%;
+}
+#metal-button:hover {
+  background: #000;
+  color: #dba901;
+  border: 2px solid #dba901;
+}
+#semi-metal-button:hover {
+  background: #000;
+  color: #04b45f;
+  border: 2px solid #04b45f;
+}
+#no-metal-button:hover {
+  background: #000;
+  color: #013adf;
+  border: 2px solid #013adf;
+}
+#noble-gas-button:hover {
+  background: #000;
+  color: #ff0040;
+  border: 2px solid #ff0040;
+}
+#artificial-button:hover {
+  background: #fff;
+  color: #2e2e2e;
+  border: 2px solid #2e2e2e;
+}
+/*Filter effects*/
+.selected {
+  background: none;
+  color: #000;
+  transition: all 0.3s ease;
+}
+.element:not(.selected) {
+  transition: all 0.3s ease;
+}
+/*Info container*/
+.info {
+  position: absolute;
+  height: 23rem;
+  width: 57rem;
+  top: 50px;
+  left: 50px;
+  z-index: 10;
+  opacity: 0.7;
+  border: 2px solid #000;
+  background: #000;
+  color: #fff;
+  transition: all 1s ease;
+}
+.info button {
+  position: absolute;
+  left: 55.6rem;
+  top: 0.1rem;
+  padding: 0.1rem;
+  border: none;
+  background: none;
+  outline: none;
+  cursor: pointer;
+}
+.info button i {
+  color: #fff;
+}
+.info #element-name {
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline;
+  font-weight: bold;
+}
