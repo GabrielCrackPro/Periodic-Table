@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-size: 22px;
+  user-select: none;
 }
 nav {
   background: #24627c;
@@ -1025,6 +1026,7 @@ nav a {
 }
 /*Info container*/
 .info {
+  display: none;
   position: absolute;
   height: 23rem;
   width: 57rem;
@@ -1035,6 +1037,7 @@ nav a {
   border: 2px solid #000;
   background: #000;
   color: #fff;
+  border-radius: 15px;
   transition: all 1s ease;
 }
 .info button {
@@ -1050,9 +1053,35 @@ nav a {
 .info button i {
   color: #fff;
 }
-.info #element-name {
+#element-name {
   text-align: center;
   text-transform: uppercase;
   text-decoration: underline;
   font-weight: bold;
+}
+#element-type {
+  margin-left: 26rem;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 30px;
+}
+#element-color {
+  position: absolute;
+  top: 30px;
+  left: 710px;
+  height: 1.5rem;
+  width: 1.5rem;
+}
+#element-propieties {
+  margin-left: 2rem;
+}
+#element-propieties h2 {
+  position: absolute;
+  font-size: 30px;
+  font-style: italic;
+  border: 2px solid #fff;
+}
+#element-propieties ul {
+  list-style: square;
+  margin-top: 15px;
 }

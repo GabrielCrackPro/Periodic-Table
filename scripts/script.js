@@ -5,8 +5,6 @@ const semiMetals = document.querySelectorAll('.semi-metal')
 const noMetals = document.querySelectorAll('.no-metal')
 const nobleGases = document.querySelectorAll('.noble')
 
-const elementName0 = document.querySelectorAll('.element h6')
-
 const metalButton = document.querySelector('#metal-button')
 const semiMetalButton = document.querySelector('#semi-metal-button')
 const noMetalButton = document.querySelector('#no-metal-button')
@@ -16,6 +14,9 @@ const artificialButton = document.querySelector('#artificial-button')
 const closeInfoButton = document.querySelector('#close-info-button')
 const infoContainer = document.querySelector('.info')
 const elementName = document.querySelector('.info h2')
+const elementType = document.querySelector('#element-type')
+const elementColor = document.querySelector('#element-color')
+const elementPropieties = document.querySelector('#element-propieties')
 
 //Add listeners
 metalButton.addEventListener('click', () => {
@@ -63,10 +64,31 @@ closeInfoButton.addEventListener('click', () => {
 elements.forEach(element => {
     element.addEventListener('click', () => {
         infoContainer.style.display = 'block'
-        for (var i = 0; i < elements.length; i++) {
-            elements.forEach(element => {
-                elementName.textContent = elementName0[i].textContent
-            })
-        }
+        elementName.textContent = element.textContent.trim().slice(10, 22) //Display the correct namme of selected element
+        if (element.classList.contains('metal')) {
+            elementType.textContent = 'Metal'
+            elementColor.style.backgroundColor = '#dba901'
+            elementPropieties.innerHTML = `
+            <h2>General Propieties</h2>
+            <br>
+            <ul>
+                <li><p>Cation formation</p></li>
+                <li><p>Formation of basic oxides</p></li>
+                <li><p>Salt formation</p></li>
+            </ul>
+            `
+        } else if (element.classList.contains('no-metal')) {
+            elementType.textContent = 'No Metal'
+            elementColor.style.backgroundColor = '#013adf'
+        } else if (element.classList.contains('semi-metal')) {
+            elementType.textContent = 'Semi Metal'
+            element.style.backgroundColor = '#04b45f'
+        } else if (element.classList.contains('artificial')) {
+            elementType.textContent = 'Artificial'
+            elementColor.style.backgroundColor = '#2e2e2e'
+        } else {
+            elementType.textContent = 'Noble Gas'
+            elementColor.style.backgroundColor = '#ff0040'
+        } //Display the correct type of selected element
     })
 })
